@@ -6,5 +6,5 @@ o controle desse projetos será realizado no github
 ## icones
 :package: nova funcionalidade
 :up: atualização
-:beatle: correção de bug
-:checkered flag: release
+:beetle: correção de bug
+:checkered_flag: release
