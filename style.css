@@ -200,11 +200,11 @@ animation: moveBanner 1s 0.5s forwards;
 font-family:var(--font-action);
 font-size: 2rem;
 color: #555;
-transition: color 1s;
+transition:background-colo 1s ;
 }
 
 .menu-link:hover{
-    color:#6a3093;
+    color:#a044ff;
 }
 
 .social-media{
@@ -363,10 +363,12 @@ border-radius: 10px;
     height: 80%;
   }
   
-  .conhecimentos-img-wrapper img{
+  .conhecimentos-img-wrapper img {
     object-fit: cover;
     height: 100%;
   }
+
+
 
 .projetos{
     display: flex;
